@@ -1,0 +1,12 @@
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day20/TaskDependency/CityLibrary/bin/Debug/net7.0/CityLibrary.deps.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day20/TaskDependency/CityLibrary/bin/Debug/net7.0/CityLibrary.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day20/TaskDependency/CityLibrary/bin/Debug/net7.0/CityLibrary.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day20/TaskDependency/CityLibrary/obj/Debug/net7.0/CityLibrary.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day20/TaskDependency/CityLibrary/obj/Debug/net7.0/CityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day20/TaskDependency/CityLibrary/obj/Debug/net7.0/CityLibrary.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day20/TaskDependency/CityLibrary/obj/Debug/net7.0/CityLibrary.AssemblyInfo.cs
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day20/TaskDependency/CityLibrary/obj/Debug/net7.0/CityLibrary.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day20/TaskDependency/CityLibrary/obj/Debug/net7.0/CityLibrary.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day20/TaskDependency/CityLibrary/obj/Debug/net7.0/refint/CityLibrary.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day20/TaskDependency/CityLibrary/obj/Debug/net7.0/CityLibrary.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day20/TaskDependency/CityLibrary/obj/Debug/net7.0/ref/CityLibrary.dll

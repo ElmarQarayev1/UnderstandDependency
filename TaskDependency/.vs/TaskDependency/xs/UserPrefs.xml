@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{07E2D84A-EC91-432A-A7D9-87CEFF887105}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskDependency/Program.cs">
+    <Files>
+      <File FileName="TaskDependency/Program.cs" Line="12" Column="25" />
+      <File FileName="CityLibrary/City.cs" Line="5" Column="6" />
+      <File FileName="CityLibrary/ChinaCity.cs" Line="22" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaskDependency" expanded="True">
+            <Node name="TaskDependency">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TaskDependency PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
