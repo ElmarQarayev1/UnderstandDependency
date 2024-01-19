@@ -1,5 +1,5 @@
 ﻿using CityLibrary;
-namespace CityLibrary;
+namespace TaskDependency;
 
 class Program
 {
